@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Piols
-- 👀 I’m interested in gaming and coding.
+- 👀 I’m interested in gaming and programming.
 - 🌱 I’m currently learning ReactJS and Python.
 - 📫 How to reach me - @Pi_ols (Twitter)
 
